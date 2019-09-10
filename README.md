@@ -1,5 +1,5 @@
 # Big Data Algorithms
-Practical insights for Big Data Algorithms subject
+Practical insights for Big Data Algorithms subject.
 
 # Lectures
 
@@ -13,4 +13,4 @@ Thank [jpaos](https://github.com/jpaos) for the materials given, revision and co
 
 # Suggestions
 
-Any tips, comments, suggestions send me an email to <hfpss@iscte-iul.pt> 
+Any tips, comments, suggestions send me an email to <hfpss@iscte-iul.pt>. 
