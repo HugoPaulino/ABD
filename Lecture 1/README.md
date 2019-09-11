@@ -31,8 +31,9 @@ Instructions follows below:
 4. Create a ubuntu virtual machine using the image provided.
 5. Open a terminal, go to the folder ABD witch is in the Desktop 
 6. Run the command git clone https://github.com/HugoPaulino/ABD.git.  This command will download the lessons into the folder ABD
-7. Run the command Jupyter notebook. This will trigger a new firefox window open.
-8. Check if Spark is running using 
+7. Run the command Jupyter notebook. This will trigger a interactive console open in firefox.
+8. Check if Spark is running using http://localhost:4040 
+
 
 # Remote Environment
 
