@@ -21,7 +21,7 @@ Instructions are described below.
 
 ## VMWARE
 
-Download VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads).
+Download Vmware from [here](https://www.vmware.com/br/products.html).
 
 Download vmware image from  [here](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_vmware_181205.ova).
 
@@ -29,7 +29,7 @@ Instructions to install [here](https://www.cloudera.com/tutorials/sandbox-deploy
 
 ## Docker
 
-Download Docker from [here](https://www.vmware.com/br/products.html).
+Download Docker from [here](https://www.docker.com/products/docker-desktop).
 
 Download docker image from  [here](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_docker-deploy-scripts_18120587fc7fb.zip).
 
