@@ -23,7 +23,7 @@ Instructions are described below.
 
 Download VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads).
 
-Download virtual machine from  [here](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_vmware_181205.ova).
+Download vmware image from  [here](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_vmware_181205.ova).
 
 Instructions to install [here](https://www.cloudera.com/tutorials/sandbox-deployment-and-install-guide/2.html):
 
@@ -31,7 +31,7 @@ Instructions to install [here](https://www.cloudera.com/tutorials/sandbox-deploy
 
 Download Docker from [here](https://www.vmware.com/br/products.html).
 
-Download virtual machine from  [here](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_docker-deploy-scripts_18120587fc7fb.zip).
+Download docker image from  [here](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_docker-deploy-scripts_18120587fc7fb.zip).
 
 Instructions to install [here](https://www.cloudera.com/tutorials/sandbox-deployment-and-install-guide/3.html):
 
@@ -42,7 +42,7 @@ Instructions follows below:
 
 Download VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads).
 
-Download virtual machine from  [here](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_virtualbox_181205.ova).
+Download virtual box image from  [here](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_virtualbox_181205.ova).
 
 Instructions to install [here](https://www.cloudera.com/tutorials/sandbox-deployment-and-install-guide/1.html).
 
