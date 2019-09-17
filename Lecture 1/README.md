@@ -19,7 +19,7 @@ This environment runs locally on the computer.
 
 Instructions are described below. 
 
-## VMWARE
+## VMWARE(Recommended)
 
 Download Vmware from [here](https://www.vmware.com/br/products.html).
 
