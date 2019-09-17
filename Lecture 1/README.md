@@ -19,28 +19,32 @@ This environment runs locally on the computer.
 
 Instructions are described below. 
 
+## VMWARE
+
+Download VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads).
+
+Download virtual machine from  [here](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_vmware_181205.ova).
+
+Instructions to install [here](https://www.cloudera.com/tutorials/sandbox-deployment-and-install-guide/2.html):
+
+## Docker
+
+Download Docker from [here](https://www.vmware.com/br/products.html).
+
+Download virtual machine from  [here](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_docker-deploy-scripts_18120587fc7fb.zip).
+
+Instructions to install [here](https://www.cloudera.com/tutorials/sandbox-deployment-and-install-guide/3.html):
+
 
 ## VirtualBox
-For this class we will use VirtualBox with a Ubuntu image. 
 
 Instructions follows below:
 
-1. Download VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads).
-2. Install VirtualBox
-3. Download [this](https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.4.2-0-virtualbox.zip) VirtualBox image.
-4. Create a ubuntu virtual machine using the image provided.
-5. Open a terminal, go to the folder ABD witch is in the Desktop 
-6. Run the command `git clone https://github.com/HugoPaulino/ABD.git`.  This command will download the lessons into the folder ABD
-7. Run the command `jupyter notebook`. This will trigger a new interactive console in firefox.
-8. Check if Spark is running using http://localhost:4040 
+Download VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads).
+
+Download virtual machine from  [here](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_virtualbox_181205.ova).
+
+Instructions to install [here](https://www.cloudera.com/tutorials/sandbox-deployment-and-install-guide/1.html).
 
 
-# Remote Environment
-
-This environment is provided by iscte and is shared with other
-colleagues so you must be careful using it.
-
-Link
-
-Enter using the credentials provided as email. 
 
