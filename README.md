@@ -7,7 +7,7 @@ Practical insights for Big Data Algorithms subject.
 [Lesson 2 -> Python Programing Language Concepts](https://github.com/HugoPaulino/ABD/blob/master/Lecture%202)  
 [Lesson 3 -> Introduction to Spark](https://github.com/HugoPaulino/ABD/blob/master/Lecture%203/) 
 
-Run ```svn checkout https://github.com/HugoPaulino/ABD/trunk/Lecture%203```  to download the lesson 
+Run ```svn checkout https://github.com/HugoPaulino/ABD/trunk/Lecture%203``` 
 
 [Lesson 4 -> Spark Operations and Data Types](https://github.com/HugoPaulino/ABD/tree/master/Lecture%204)  
 [Lesson 5 -> Spark Aggregations and Joins](https://github.com/HugoPaulino/ABD/blob/master/Lecture%205)  
