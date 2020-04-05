@@ -4,7 +4,7 @@ Practical insights for Big Data Algorithms subject.
 # Lectures
 
 [Lesson 1 -> Create work environment](https://github.com/HugoPaulino/ABD/tree/master/Lecture%201)  
-[Lesson 2 -> Python Programing Language Concepts](https://github.com/HugoPaulino/ABD/blob/master/Lecture%202)  
+[Lesson 2 -> Python Programing Concepts](https://github.com/HugoPaulino/ABD/blob/master/Lecture%202)  
 [Lesson 3 -> Introduction to Spark](https://github.com/HugoPaulino/ABD/blob/master/Lecture%203/) 
 
 Run ```svn checkout https://github.com/HugoPaulino/ABD/trunk/Lecture%203``` 
